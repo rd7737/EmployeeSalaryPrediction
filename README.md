@@ -4,6 +4,9 @@ This project is a machine learning web application built using **Streamlit** to 
 
 It uses a synthetic yet realistic dataset and supports predictions via an interactive UI.
 
+Project Link:
+
+https://employeesalaryprediction-rd7737.streamlit.app/
 ---
 
 ## 📂 Folder Structure
